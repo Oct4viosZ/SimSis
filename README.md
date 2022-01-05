@@ -12,3 +12,21 @@ Criar um órgão em minimos detalhes para funcionar em um sistema grande.
   Daria até para o pessoal estudante fazer proveito dele para aprender e exercitar o conhecimento em física, química, em fim.
 <h1>Aparência</h1>
   A princípio seria um terminal com até qualquer caractere aceito na linguagem C nativa.
+<hr>
+<h1>Como executar</h1>
+  Execute o arquivo executável "play", presente na pasta SimSis(diretório inicial).
+  </p>
+  Nas distribuições Linux, para executar pode-se digitar:
+ 
+ ```
+  
+  ./play
+  
+ ```
+ 
+<h1>Execução</h1>
+  Na interface de usuário da 5-1-22 teria-se um terminal por onde interagir com a aplicação.  
+<hr>
+<h1>Aspéctos técnicos</h1>
+  O arquivo principal chama-se "SimSis.c", ele usa funções(os arquivos.h) que compõem partes do programa, uma função cria os gráficos, outra a interface, etc...
+  
