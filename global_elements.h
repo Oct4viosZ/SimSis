@@ -1,6 +1,4 @@
 #include<string.h>
-int i, i2, i3, i4;
-
 
 typedef struct Terreno{
 	int slots[45];
@@ -40,9 +38,8 @@ Terreno DINslots_terreno(Terreno t, size_t size, char aloc){
 }
 
 Terreno type_terreno(Terreno t){
-	int input;
-	scanf("%d", &input);
-	t = DINslots_terreno(t, input, 'a');
+	
+	t = DINslots_terreno(t, questionUI('t'), 'a');
 	return t;
 }
 
