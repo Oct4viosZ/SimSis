@@ -1,3 +1,7 @@
+/*Arquivo SimSis.c (Simulador de Sistemas)
+Versão: 5-1-22
+*/
+
 #include<stdio.h>
 #include<unistd.h>
 #include<stdlib.h>
