@@ -25,4 +25,8 @@ int main(){
 }
 
 
-
+/*Feito por: ServilliusVIII Oct4viosZ
+Licença: MIT
+Programa original disponível em: https://github.com/Oct4viosZ/SimSis
+"Graças a DEUS!"
+*/
